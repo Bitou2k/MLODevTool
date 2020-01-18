@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLODevTool", "MLODevTool\MLODevTool.csproj", "{2A740115-E849-43D6-AE5A-48E976068812}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A740115-E849-43D6-AE5A-48E976068812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A740115-E849-43D6-AE5A-48E976068812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A740115-E849-43D6-AE5A-48E976068812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A740115-E849-43D6-AE5A-48E976068812}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE7C99C3-5A0A-4807-BC7D-3C0FC43F7FFA}
+	EndGlobalSection
+EndGlobal
